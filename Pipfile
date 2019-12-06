@@ -9,7 +9,8 @@ verify_ssl = true
 flask = "*"
 psycopg-binary = "*"
 psycopg2 = "*"
-psycopg2-binary = "*"
+redis-py = "*"
+redis = "*"
 
 [requires]
 python_version = "3.8"

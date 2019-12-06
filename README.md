@@ -54,9 +54,9 @@ ALTER TABLE public.options
 
 ```
 
+используются 2 хранилища данных: redis, postgres. в postgres хранятся все данные, в redis только не критически важные(firstname, lastname, notepad).
 
-
-
+номер используемой БД в redis 4.
 
 
 
